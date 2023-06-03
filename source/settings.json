@@ -1,0 +1,8 @@
+{
+    "persistent_data_path": "./save-data",
+    "server_name": "",
+    "server_path": "./vrisingserver",
+    "save_name": "default",
+    "game_settings": "./vrisingserver/VRisingServer_Data/StreamingAssets/Settings/ServerGameSettings.json",
+    "host_settings": "./vrisingserver/VRisingServer_Data/StreamingAssets/Settings/ServerHostSettings.json"
+}
