@@ -12,7 +12,4 @@ Snag a released version from releases. Unzip the files, there should be two, the
 ## Already Existing servers
 You can 100% plug in already existing servers to this, just open the settings.json either in the manager, or in your favorite text editor and change where they point to. 
 
-<img src="https://github.com/rylpeck/vrisingsimpleserver/blob/a8ab02db0de0f770a08a32abb794b273dbaca544/Picture/ServerManager1.png">
-
-                                                                                                                                 
-                                                                                                                                 
+<img src="(https://github.com/rockycoolcatjr/vrisingserver/blob/7291d1e5020953248b80008f422a604aaf5fd6d8/Picture/ServerManager1.png)">
